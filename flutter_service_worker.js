@@ -14,7 +14,7 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"main.dart.js": "4e457e5f6c0290e3581a958a110243a0",
+"main.dart.js": "2a243500e01211c4ea77ed75b610e00a",
 "assets/FontManifest.json": "36037ee86e828a2f345e3cfd7d2eaea7",
 "assets/packages/map_launcher/assets/icons/googleGo.svg": "cb318c1fc31719ceda4073d8ca38fc1e",
 "assets/packages/map_launcher/assets/icons/petal.svg": "76c9cfa1bfefb298416cfef6a13a70c5",
@@ -41,8 +41,8 @@ const RESOURCES = {
 "assets/assets/fonts/IRANSansWeb(FaNum).ttf": "e9908f05e5771638e40913309b784a17",
 "assets/NOTICES": "b1ced86a63ce15a06f155c4c40f3fe06",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"index.html": "d5f43bc5aa454146d190f73fa0207488",
-"/": "d5f43bc5aa454146d190f73fa0207488"
+"index.html": "84e84c0684ff40ab431705afd4a8aa08",
+"/": "84e84c0684ff40ab431705afd4a8aa08"
 };
 
 // The application shell files that are downloaded before a service worker can
