@@ -14,7 +14,7 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"main.dart.js": "299694038ae6df7351dbd30bbbccbf84",
+"main.dart.js": "b566b95ffea9829be61bdb056b3d2388",
 "assets/FontManifest.json": "36037ee86e828a2f345e3cfd7d2eaea7",
 "assets/packages/map_launcher/assets/icons/googleGo.svg": "cb318c1fc31719ceda4073d8ca38fc1e",
 "assets/packages/map_launcher/assets/icons/petal.svg": "76c9cfa1bfefb298416cfef6a13a70c5",
@@ -39,10 +39,10 @@ const RESOURCES = {
 "assets/assets/fonts/IranNastaliq.ttf": "083395bb280392dbac754b0aba022ad1",
 "assets/assets/fonts/Aviny.ttf": "a637f242b03aab50050fce0901fb69c0",
 "assets/assets/fonts/IRANSansWeb(FaNum).ttf": "e9908f05e5771638e40913309b784a17",
-"assets/NOTICES": "b1ced86a63ce15a06f155c4c40f3fe06",
+"assets/NOTICES": "061e427ac93036472cb7c7b69439f949",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"index.html": "02315bdd53e1d54646d1fddae5d824d5",
-"/": "02315bdd53e1d54646d1fddae5d824d5"
+"index.html": "81fc640a50aa358507b8a422b3575984",
+"/": "81fc640a50aa358507b8a422b3575984"
 };
 
 // The application shell files that are downloaded before a service worker can
