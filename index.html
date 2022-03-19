@@ -37,7 +37,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '736422109';
+    var serviceWorkerVersion = '1883275603';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -101,5 +101,14 @@
     }
   </script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBrkc6KpsH5BPwGxezehsph4BYjGItNVc"></script>
+  <script type="text/javascript">
+    let useHtml = // ...
+    if(useHtml) {
+      window.flutterWebRenderer = "html";
+    } else {
+      window.flutterWebRenderer = "canvaskit";
+    }
+  </script>
+  <script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
